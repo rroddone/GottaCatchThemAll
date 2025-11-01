@@ -25,7 +25,6 @@ kaggle.json
 .kaggle/
 
 # --- Data files (local datasets, just in case) ---
-data/
 datasets/
 *.csv
 *.tsv
